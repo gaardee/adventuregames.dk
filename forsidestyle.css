@@ -38,27 +38,6 @@ header nav a:visited {
   text-decoration: none;
 }
 
-#corona {
-  height: 10.2vw;
-  font-size: 0.8em;
-  color: red;
-  cursor: pointer;
-}
-
-#corona p {
-  padding: 15px;
-}
-
-#coronatekst {
-  padding: 25px;
-  /*    display: none;*/
-}
-
-#coronatekst p {
-  max-width: 75vw;
-  font-size: 0.9em;
-}
-
 /*STYLING AF MENU........*/
 
 .dropbtn {
@@ -752,13 +731,6 @@ footer p {
 }
 
 @media only screen and (min-width: 650px) {
-  #corona {
-    height: 7.2vw;
-    font-size: 0.8em;
-    color: red;
-    cursor: pointer;
-  }
-
   #ikoner {
     margin-top: 0;
   }
@@ -971,20 +943,6 @@ footer p {
 }
 
 @media only screen and (min-width: 790px) {
-  #coronatekst {
-    padding: 25px;
-    padding-left: 7vw;
-    /*    display: none;*/
-  }
-
-  #coronatekst p {
-    max-width: 70vw;
-  }
-
-  #corona {
-    padding-left: 6vw;
-  }
-
   #sectionwrapper {
     display: block;
   }
@@ -1014,13 +972,6 @@ footer p {
 }
 
 @media only screen and (min-width: 800px) {
-  #corona {
-    height: 5vw;
-    font-size: 0.8em;
-    color: red;
-    cursor: pointer;
-  }
-
   .slideshow-container {
     width: 55vw;
     height: 40vw;
@@ -1105,14 +1056,6 @@ footer p {
 }
 
 @media only screen and (min-width: 850px) {
-  #corona {
-    height: 4.5vw;
-  }
-
-  #coronatekst {
-    padding-top: 0vw;
-  }
-
   #sectionwrapper {
     display: block;
   }
@@ -1519,10 +1462,6 @@ footer p {
 }
 
 @media only screen and (min-width: 1200px) {
-  #corona {
-    height: 3.4vw;
-  }
-
   .slideshow-container {
     width: 55vw;
     height: 28vw;
