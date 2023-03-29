@@ -9,25 +9,34 @@
 
                 <div class="dropdown">
                     <a href="/aktiviteter"> <button class="dropbtn">Aktiviteter</button></a>
-                    <div class="dropdown-content">
-                        <a href="/aktiviteter/fangerne">Fangerne på Fortet</a>
-                        <a href="/aktiviteter/tvekamp">Tvekamp</a>
-                        <a href="/aktiviteter/syvkamp">7-kamp</a>
-                        <a href="/aktiviteter/tikamp">10-kamp</a>
-                        <a href="/aktiviteter/stratego">Stratego</a>
-                        <a href="/aktiviteter/race">Adventure Race</a>
-                        <a href="/aktiviteter/medarbejder">Årets medarbejder</a>
-                        <a href="/aktiviteter/casino">Casino</a>
-                        <a href="/aktiviteter/udlejning">Udlejning</a>
+                    <div class="dropdown-content" style="width: 500px;margin-left:-150px;">
+                        <div style="width: 50%;">
+                            <a href="/aktiviteter/fangerne">Fangerne på Fortet</a>
+                            <a href="/aktiviteter/tvekamp">Tvekamp</a>
+                            <a href="/aktiviteter/syvkamp">7-kamp</a>
+                            <a href="/aktiviteter/tikamp">10-kamp</a>
+                            <a href="/aktiviteter/stratego">Stratego</a>
+                            <a href="/aktiviteter/race">Adventure Race</a>
+                        </div>
+                        <div style="width: 50%;">
+                            <a href="/aktiviteter/medarbejder">Årets medarbejder</a>
+                            <a href="/aktiviteter/casino">Casino</a>
+                            <a href="/aktiviteter/fangerne-blaa-mandag">Fangerne på fortet - Blå mandag</a>
+                            <a href="/aktiviteter/teambuilding">Teambuilding for små selskaber</a>
+                            <a href="/aktiviteter/fangerne-light">Fangerne på Fortet - Light</a>
+                            <a href="/aktiviteter/udlejning">Udlejning</a>
+                        </div>
                     </div>
                 </div>
 
                 <div class="dropdown">
                     <a href="/omos"> <button class="dropbtn">Om os</button></a>
                     <div class="dropdown-content">
-                        <a href="/omos">Hvem er vi?</a>
-                        <a href="/lokaliteter">Lokaliteter</a>
-                        <a href="/job">Job</a>
+                        <div style="width: 100%;">
+                            <a href="/omos">Hvem er vi?</a>
+                            <a href="/lokaliteter">Lokaliteter</a>
+                            <a href="/job">Job</a>
+                        </div>
                     </div>
                 </div>
 
