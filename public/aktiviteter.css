@@ -1,0 +1,101 @@
+#aktiv_splash {
+
+    height: 40vw;
+    width: 100%;
+    background-image: url(img/aktiviteter.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 70%;
+}
+
+#ikoner {
+    min-height: 80vw;
+}
+
+h1 {
+    font-family: montserrat, sans-serif;
+    font-style: normal;
+    font-weight: 350;
+    font-size: 1.2em;
+    padding-left: 8vw;
+    padding-top: 3vw;
+    margin-bottom: 2vw;
+}
+
+h2 {
+    font-family: montserrat, sans-serif;
+    font-style: normal;
+    font-weight: 350;
+    font-size: 1em;
+    padding-left: 8vw;
+    padding-top: 5vw;
+    margin-bottom: 2vw;
+}
+
+
+footer {
+    margin-top: 5vw;
+}
+
+@media only screen and (min-width:500px) {
+
+    #ikoner {
+        min-height: 70vw;
+    }
+}
+
+@media only screen and (min-width:650px) {
+
+    #aktiv_splash {
+        height: 35vw;
+    }
+
+
+    p {
+        max-width: 80vw;
+    }
+
+    #ikoner {
+        min-height: 50vw;
+    }
+}
+
+
+@media only screen and (min-width:750px) {
+
+    h1 {
+        margin-bottom: 1vw;
+    }
+
+}
+
+@media only screen and (min-width:850px) {
+
+    h1 {
+        padding-top: 3vw;
+    }
+}
+
+@media only screen and (min-width:1000px) {
+
+    #ikoner {
+        min-height: 46vw;
+    }
+}
+
+
+@media only screen and (min-width:1100px) {
+
+    #aktiv_splash {
+        height: 29vw;
+    }
+
+
+}
+
+@media only screen and (min-width:1200px) {
+
+    #ikoner {
+        min-height: 42vw;
+    }
+}

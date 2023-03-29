@@ -1,0 +1,88 @@
+#splash_syv {
+
+    height: 40vw;
+    width: 100%;
+    background-image: url(img/syvsplash2.png);
+    background-size: cover;
+    background-position: 20%;
+}
+
+h1 {
+    font-family: montserrat, sans-serif;
+    font-style: normal;
+    font-weight: 350;
+    font-size: 1.2em;
+    padding-left: 10vw;
+    padding-top: 5vw;
+    margin-bottom: 2vw;
+}
+
+h2 {
+    font-family: montserrat, sans-serif;
+    font-style: normal;
+    font-weight: 350;
+    font-size: 1em;
+    padding-left: 8vw;
+    padding-top: 5vw;
+    margin-bottom: 2vw;
+}
+
+#tekst_syv p {
+    padding-left: 10vw;
+    padding-right: 8vw;
+    max-width: 90vw;
+}
+
+footer {
+    margin-top: 5vw;
+}
+
+
+footer p {
+    padding-left: 10vw;
+}
+
+#tekst_syv {
+    margin-bottom: 15vw;
+    margin-top: 10vw;
+}
+
+
+@media only screen and (min-width:650px) {
+
+    #splash_syv {
+        height: 35vw;
+    }
+}
+
+
+@media only screen and (min-width:750px) {
+
+    h1 {
+        margin-bottom: 1vw;
+    }
+
+    #tekst_syv {
+        margin-top: 3vw;
+    }
+}
+
+@media only screen and (min-width:850px) {
+
+    h1 {
+        padding-top: 3vw;
+    }
+}
+
+
+@media only screen and (min-width:1100px) {
+
+    #splash_syv {
+        height: 29vw;
+    }
+
+
+    #tekst_syv p {
+        max-width: 80vw;
+    }
+}

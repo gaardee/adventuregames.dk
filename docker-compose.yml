@@ -1,0 +1,7 @@
+services:
+  web:
+    build: Docker
+    ports:
+      - "80:80"
+    volumes:
+      - ./public:/var/www/html/
