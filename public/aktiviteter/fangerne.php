@@ -12,7 +12,7 @@
     <h1>Sted</h1>
     <p>Vi har flere faste lokaliteter i både København og Århus.
 
-        Vores setup er mobilt – Vi kommer gerne til jer. Dog skal der betales transport udenfor København.</p>
+        Vores setup er mobilt – Vi kommer gerne til jer. Dog skal der betales transport udenfor København og Århus.</p>
     <h1>Pris</h1>
     <p>Min. 15 personer.
         Alm. udgave [12 baner] 550 kr. pr. deltager

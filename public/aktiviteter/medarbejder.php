@@ -15,6 +15,6 @@
     <h1>Varighed</h1>
     <p>2 timer uanset antal</p>
     <h1>Antal</h1>
-    <p>Min. 21 personer.</p>
+    <p>Min. 30 personer.</p>
 
 </section>
