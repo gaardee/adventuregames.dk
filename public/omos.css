@@ -1,7 +1,7 @@
 #splash_om {
   height: 40vw;
   width: 100%;
-  background-image: url(img/medarbejdere.jpg);
+  background-image: url(/img/medarbejdere.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 20%;
@@ -105,7 +105,7 @@ ul {
   width: 30vw;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url(img/garder.png);
+  background-image: url(/img/garder.png);
 }
 
 .sos {
@@ -113,7 +113,7 @@ ul {
   width: 30vw;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url(img/sos.png);
+  background-image: url(/img/sos.png);
 }
 
 .teamd {
@@ -121,7 +121,7 @@ ul {
   width: 30vw;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url(img/teamdream.png);
+  background-image: url(/img/teamdream.png);
 }
 
 .bauta {
@@ -129,7 +129,7 @@ ul {
   width: 30vw;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url(img/bauta.png);
+  background-image: url(/img/bauta.png);
 }
 
 .kastrup {
@@ -137,7 +137,7 @@ ul {
   width: 30vw;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url(img/kastrup.png);
+  background-image: url(/img/kastrup.png);
 }
 
 .bryde {
@@ -145,7 +145,7 @@ ul {
   width: 30vw;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url(img/bryde.png);
+  background-image: url(/img/bryde.png);
 }
 
 .bymose {
@@ -153,7 +153,7 @@ ul {
   width: 30vw;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url(img/bymose.png);
+  background-image: url(/img/bymose.png);
 }
 
 .pharma {
@@ -161,7 +161,7 @@ ul {
   width: 30vw;
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: url(img/pharma.png);
+  background-image: url(/img/pharma.png);
 }
 
 #sam_logoer {
@@ -233,7 +233,7 @@ ul {
     width: 20vw;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(img/garder.png);
+    background-image: url(/img/garder.png);
   }
 
   .sos {
@@ -241,7 +241,7 @@ ul {
     width: 20vw;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(img/sos.png);
+    background-image: url(/img/sos.png);
   }
 
   .bauta {
@@ -249,7 +249,7 @@ ul {
     width: 20vw;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(img/bauta.png);
+    background-image: url(/img/bauta.png);
   }
 
   .kastrup {
@@ -257,7 +257,7 @@ ul {
     width: 20vw;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(img/kastrup.png);
+    background-image: url(/img/kastrup.png);
   }
 
   .bryde {
@@ -265,7 +265,7 @@ ul {
     width: 20vw;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(img/bryde.png);
+    background-image: url(/img/bryde.png);
   }
 
   .bymose {
@@ -274,7 +274,7 @@ ul {
     margin-top: 2vw;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(img/bymose.png);
+    background-image: url(/img/bymose.png);
   }
 
   .pharma {
@@ -282,13 +282,13 @@ ul {
     width: 20vw;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(img/pharma.png);
+    background-image: url(/img/pharma.png);
   }
 
   .teamd {
     height: 12vw;
     width: 20vw;
-    background-image: url(img/teamdream.png);
+    background-image: url(/img/teamdream.png);
   }
 
   #samarbejde .sam1 {
@@ -324,7 +324,7 @@ ul {
     width: 15vw;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(img/garder.png);
+    background-image: url(/img/garder.png);
   }
 
   .sos {
@@ -332,7 +332,7 @@ ul {
     width: 15vw;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(img/sos.png);
+    background-image: url(/img/sos.png);
   }
 
   .bauta {
@@ -340,7 +340,7 @@ ul {
     width: 15vw;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(img/bauta.png);
+    background-image: url(/img/bauta.png);
   }
 
   .kastrup {
@@ -348,7 +348,7 @@ ul {
     width: 15vw;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(img/kastrup.png);
+    background-image: url(/img/kastrup.png);
   }
 
   .bryde {
@@ -356,7 +356,7 @@ ul {
     width: 15vw;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(img/bryde.png);
+    background-image: url(/img/bryde.png);
   }
 
   .bymose {
@@ -365,7 +365,7 @@ ul {
     margin-top: 2vw;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(img/bymose.png);
+    background-image: url(/img/bymose.png);
   }
 
   .pharma {
@@ -373,13 +373,13 @@ ul {
     width: 15vw;
     background-size: contain;
     background-repeat: no-repeat;
-    background-image: url(img/pharma.png);
+    background-image: url(/img/pharma.png);
   }
 
   .teamd {
     height: 10vw;
     width: 15vw;
-    background-image: url(img/teamdream.png);
+    background-image: url(/img/teamdream.png);
   }
 
   #samarbejde .sam1 {

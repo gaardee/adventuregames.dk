@@ -1,10 +1,10 @@
-#splash_tvekamp {
-
+#splash_medarbejder {
     height: 40vw;
     width: 100%;
-    background-image: url(img/tvekamp_splash.png);
+    background-image: url(/img/casino_splash.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: 20%;
 }
 
 h1 {
@@ -27,13 +27,7 @@ h2 {
     margin-bottom: 2vw;
 }
 
-
-#tekst_tvekamp {
-    margin-bottom: 15vw;
-    margin-top: 10vw;
-}
-
-#tekst_tvekamp p {
+#tekst_medarbejder p {
     padding-left: 10vw;
     padding-right: 8vw;
     max-width: 90vw;
@@ -47,10 +41,9 @@ footer p {
     padding-left: 10vw;
 }
 
-
 @media only screen and (min-width:650px) {
 
-    #splash_tvekamp {
+    #splash_medarbejder {
         height: 35vw;
     }
 }
@@ -62,7 +55,7 @@ footer p {
         margin-bottom: 1vw;
     }
 
-    #tekst_tvekamp {
+    #tekst_medarbejder {
         margin-top: 3vw;
     }
 }
@@ -77,12 +70,8 @@ footer p {
 
 @media only screen and (min-width:1100px) {
 
-    #splash_tvekamp {
-        height: 29vw;
-    }
-
-    #tekst_tvekamp p {
-        max-width: 80vw;
+    #splash_medarbejder {
+        height: 30vw;
     }
 
 

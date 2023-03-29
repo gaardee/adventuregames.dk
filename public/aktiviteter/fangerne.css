@@ -1,12 +1,10 @@
-#splash_stratego {
-
+#splash_fangerne {
 
     height: 40vw;
     width: 100%;
-    background-image: url(img/stratego_splash.png);
+    background-image: url(/img/fangerneny.png);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 10%;
 }
 
 h1 {
@@ -19,17 +17,23 @@ h1 {
     margin-bottom: 2vw;
 }
 
+
+#tekst_fangerne {
+    margin-bottom: 15vw;
+    margin-top: 10vw;
+}
+
 h2 {
     font-family: montserrat, sans-serif;
     font-style: normal;
     font-weight: 350;
     font-size: 1em;
-    padding-left: 8vw;
+    padding-left: 10vw;
     padding-top: 5vw;
     margin-bottom: 2vw;
 }
 
-#tekst_stratego p {
+#tekst_fangerne p {
     padding-left: 10vw;
     padding-right: 8vw;
     max-width: 90vw;
@@ -39,21 +43,22 @@ footer {
     margin-top: 5vw;
 }
 
-footer p {
-    padding-left: 10vw;
+li {
+    font-family: montserrat, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    padding-right: 8vw;
+    padding-top: 1vw;
+
 }
 
-
-#tekst_stratego {
-    margin-bottom: 15vw;
-    margin-top: 10vw;
+ul {
+    margin-left: 3vw;
 }
-
-
 
 @media only screen and (min-width:650px) {
 
-    #splash_stratego {
+    #splash_fangerne {
         height: 35vw;
     }
 }
@@ -65,7 +70,7 @@ footer p {
         margin-bottom: 1vw;
     }
 
-    #tekst_stratego {
+    #tekst_fangerne {
         margin-top: 3vw;
     }
 }
@@ -73,18 +78,22 @@ footer p {
 @media only screen and (min-width:850px) {
 
     h1 {
-        padding-top: 3vw;
+        padding-top: 5vw;
     }
 }
 
 
 @media only screen and (min-width:1100px) {
 
-    #splash_stratego {
+    #splash_fangerne {
         height: 29vw;
+        background-position: 20%;
     }
 
-    #tekst_stratego {
+    #tekst_fangerne p {
+
         max-width: 70vw;
     }
+
+
 }

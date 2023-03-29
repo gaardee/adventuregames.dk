@@ -1,10 +1,9 @@
-#splash_syv {
+#splash_ti {
 
     height: 40vw;
     width: 100%;
-    background-image: url(img/syvsplash2.png);
+    background-image: url(/img/tikamp.png);
     background-size: cover;
-    background-position: 20%;
 }
 
 h1 {
@@ -17,6 +16,11 @@ h1 {
     margin-bottom: 2vw;
 }
 
+#tekst_ti {
+    margin-bottom: 15vw;
+    margin-top: 10vw;
+}
+
 h2 {
     font-family: montserrat, sans-serif;
     font-style: normal;
@@ -27,7 +31,7 @@ h2 {
     margin-bottom: 2vw;
 }
 
-#tekst_syv p {
+#tekst_ti p {
     padding-left: 10vw;
     padding-right: 8vw;
     max-width: 90vw;
@@ -37,20 +41,14 @@ footer {
     margin-top: 5vw;
 }
 
-
 footer p {
     padding-left: 10vw;
-}
-
-#tekst_syv {
-    margin-bottom: 15vw;
-    margin-top: 10vw;
 }
 
 
 @media only screen and (min-width:650px) {
 
-    #splash_syv {
+    #splash_ti {
         height: 35vw;
     }
 }
@@ -62,7 +60,7 @@ footer p {
         margin-bottom: 1vw;
     }
 
-    #tekst_syv {
+    #tekst_ti {
         margin-top: 3vw;
     }
 }
@@ -77,12 +75,11 @@ footer p {
 
 @media only screen and (min-width:1100px) {
 
-    #splash_syv {
+    #splash_ti {
         height: 29vw;
     }
 
-
-    #tekst_syv p {
+    #tekst_ti p {
         max-width: 80vw;
     }
 }

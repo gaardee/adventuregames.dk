@@ -1,8 +1,8 @@
-#splash_fangerne {
+#splash_tvekamp {
 
     height: 40vw;
     width: 100%;
-    background-image: url(img/fangerneny.png);
+    background-image: url(/img/tvekamp_splash.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -17,23 +17,23 @@ h1 {
     margin-bottom: 2vw;
 }
 
-
-#tekst_fangerne {
-    margin-bottom: 15vw;
-    margin-top: 10vw;
-}
-
 h2 {
     font-family: montserrat, sans-serif;
     font-style: normal;
     font-weight: 350;
     font-size: 1em;
-    padding-left: 10vw;
+    padding-left: 8vw;
     padding-top: 5vw;
     margin-bottom: 2vw;
 }
 
-#tekst_fangerne p {
+
+#tekst_tvekamp {
+    margin-bottom: 15vw;
+    margin-top: 10vw;
+}
+
+#tekst_tvekamp p {
     padding-left: 10vw;
     padding-right: 8vw;
     max-width: 90vw;
@@ -43,22 +43,14 @@ footer {
     margin-top: 5vw;
 }
 
-li {
-    font-family: montserrat, sans-serif;
-    font-weight: 300;
-    font-style: normal;
-    padding-right: 8vw;
-    padding-top: 1vw;
-
+footer p {
+    padding-left: 10vw;
 }
 
-ul {
-    margin-left: 3vw;
-}
 
 @media only screen and (min-width:650px) {
 
-    #splash_fangerne {
+    #splash_tvekamp {
         height: 35vw;
     }
 }
@@ -70,7 +62,7 @@ ul {
         margin-bottom: 1vw;
     }
 
-    #tekst_fangerne {
+    #tekst_tvekamp {
         margin-top: 3vw;
     }
 }
@@ -78,21 +70,19 @@ ul {
 @media only screen and (min-width:850px) {
 
     h1 {
-        padding-top: 5vw;
+        padding-top: 3vw;
     }
 }
 
 
 @media only screen and (min-width:1100px) {
 
-    #splash_fangerne {
+    #splash_tvekamp {
         height: 29vw;
-        background-position: 20%;
     }
 
-    #tekst_fangerne p {
-
-        max-width: 70vw;
+    #tekst_tvekamp p {
+        max-width: 80vw;
     }
 
 

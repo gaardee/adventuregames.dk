@@ -1,11 +1,10 @@
-#splash_casino {
+#splash_race {
 
     height: 40vw;
     width: 100%;
-    background-image: url(img/casino_splash.jpg);
+    background-image: url(/img/race_splashny.png);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: 20%;
 }
 
 h1 {
@@ -23,17 +22,20 @@ h2 {
     font-style: normal;
     font-weight: 350;
     font-size: 1em;
-    padding-left: 8vw;
+    padding-left: 10vw;
     padding-top: 5vw;
     margin-bottom: 2vw;
 }
 
-
-
-#tekst_casino p {
+#tekst_race p {
     padding-left: 10vw;
     padding-right: 8vw;
     max-width: 90vw;
+}
+
+#tekst_race {
+    margin-bottom: 15vw;
+    margin-top: 10vw;
 }
 
 footer {
@@ -44,10 +46,22 @@ footer p {
     padding-left: 10vw;
 }
 
+li {
+    font-family: montserrat, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    padding-right: 8vw;
+    padding-top: 1vw;
+
+}
+
+ul {
+    margin-left: 3vw;
+}
 
 @media only screen and (min-width:650px) {
 
-    #splash_casino {
+    #splash_race {
         height: 35vw;
     }
 }
@@ -59,7 +73,7 @@ footer p {
         margin-bottom: 1vw;
     }
 
-    #tekst_casino {
+    #tekst_race {
         margin-top: 3vw;
     }
 }
@@ -74,12 +88,13 @@ footer p {
 
 @media only screen and (min-width:1100px) {
 
-    #splash_casino {
-        height: 30vw;
+    #splash_race {
+        height: 29vw;
     }
 
-    #tekst_casino p {
+    #tekst_race {
         max-width: 70vw;
     }
+
 
 }
