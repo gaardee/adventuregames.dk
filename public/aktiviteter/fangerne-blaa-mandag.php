@@ -5,7 +5,7 @@
     <p>Her er aktiviteterne gjort lidt bredere og mere rettet ind til aldersklassen</p>
 
     <h1>Varighed</h1>
-    <p>2 timer uanset antal</p>
+    <p>2 timer</p>
     <h1>Antal</h1>
     <p>Min. 15 personer.</p>
     <h1>Pris</h1>

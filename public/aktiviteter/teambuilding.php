@@ -6,10 +6,10 @@
     <p>Teambuilding, udbydes hverdage. </p>
 
     <h1>Varighed</h1>
-    <p>2 timer uanset antal</p>
+    <p>2 timer</p>
     <h1>Antal</h1>
-    <p>For de mindre selskaber.</p>
+    <p>For de mindre selskaber</p>
     <h1>Pris</h1>
-    <p>3.500,00 for op til 6 personer, 500,00 pr ekstra deltager </p>
+    <p>3.500,00 for op til 6 personer, 500,00 pr ekstra deltager</p>
 
 </section>
