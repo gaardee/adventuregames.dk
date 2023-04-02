@@ -2,6 +2,7 @@
 
 <section id="tekst_medarbejder">
     <h1>Fangerne på Fortet - Light</h1>
+    <p>2 hold, én instruktør udbydes kun lørdag formiddag.</p>
     <p>Her følges selskabet rundt og kæmper sammen mod huset om præmier, donering m.m. Der er også indlagt 6 tvekampe undervejs, så holdene kæmper både sammen og mod hinanden</p>
 
     <h1>Varighed</h1>
