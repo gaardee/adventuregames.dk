@@ -9,5 +9,19 @@ RewriteRule ^(.*)\.html$ http://%{HTTP_HOST}/$1 [R,L]
 
 RewriteRule ^(.*)\.html$ https://%{HTTP_HOST}/$1 [R,L]
 
+
+RewriteRule ^casino$ aktiviteter/casino [L]
+RewriteRule ^fangerne-blaa-mandag$ aktiviteter/fangerne-blaa-mandag [L]
+RewriteRule ^fangerne-light$ aktiviteter/fangerne-light [L]
+RewriteRule ^fangerne$ aktiviteter/fangerne [L]
+RewriteRule ^medarbejder$ aktiviteter/medarbejder [L]
+RewriteRule ^race$ aktiviteter/race [L]
+RewriteRule ^stratego$ aktiviteter/stratego [L]
+RewriteRule ^syvkamp$ aktiviteter/syvkamp [L]
+RewriteRule ^teambuilding$ aktiviteter/teambuilding [L]
+RewriteRule ^tikamp$ aktiviteter/tikamp [L]
+RewriteRule ^tvekamp$ aktiviteter/tvekamp [L]
+RewriteRule ^udlejning$ aktiviteter/udlejning [L]
+
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^(.*)$ index.php?url=$1
