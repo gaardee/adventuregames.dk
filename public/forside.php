@@ -1,3 +1,7 @@
+<section id="alert" style="padding:10px; min-height:50px; display: flex;justify-content:center;align-items:center;background-color: #1abc9c;color: white;text-align: center;">
+  <p>NYHED! Det er nu muligt at prøve vores Fangerne på Fortet til Blå mandag. <a href="/aktiviteter/fangerne-blaa-mandag">Læs mere her</a></p>
+</section>
+
 <!--SLIDESHOW STARTER HER-->
 <div id="con_forside1">
   <div class="slideshow-container">
