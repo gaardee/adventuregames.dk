@@ -13,7 +13,7 @@
     <h1>Pris</h1>
     <p>ved. 20 deltagere eller mindre kr. 5000.<br>Indeholder roulette samt enten poker eller blackjack.
         Kr. 200.- ved hver ekstra deltager <br> Alle priser er eksklusiv moms</p>
-    <a href="aktiviteter/udlejning">
+    <a href="/aktiviteter/udlejning">
         <p>Casino kan også lejes. Se under udlejning</p>
     </a>
 
