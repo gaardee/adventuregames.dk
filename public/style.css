@@ -399,32 +399,58 @@ figure figcaption {
   text-decoration: none;
 }
 
-.syv {
+.ikon {
   height: 18vw;
   width: 18vw;
+  background-size: contain;
+}
+
+.ikon.syv {
   background-image: url(/img/ikoner/7aktiviteter_ikon.jpg);
-  background-size: contain;
 }
 
-.tvekamp {
-  height: 18vw;
-  width: 18vw;
+.ikon.tvekamp {
   background-image: url(/img/ikoner/tvekamp_ikon.jpg);
-  background-size: contain;
 }
 
-.tikamp {
-  height: 18vw;
-  width: 18vw;
+.ikon.tikamp {
   background-image: url(/img/ikoner/10aktiviteter_ikon.jpg);
-  background-size: contain;
 }
 
-.fangerne {
-  height: 18vw;
-  width: 18vw;
+.ikon.fangerne {
   background-image: url(/img/ikoner/_ikon.jpg);
-  background-size: contain;
+}
+
+.ikon.medarbejder {
+  background-image: url(/img/ikoner/Aretsmedarbejder_ikon.jpg);
+}
+
+.ikon.casino {
+  background-image: url(/img/ikoner/Casino_ikon.jpg);
+}
+
+.ikon.stratego {
+  background-image: url(/img/ikoner/Stratego_ikon.jpg);
+}
+
+.ikon.race {
+  background-image: url(/img/ikoner/Adventurerace_ikon.jpg);
+}
+
+.ikon.fangerne-blaa-mandag {
+  background-image: url(/img/ikoner/fangerne-blaa-mandag_ikon.jpg);
+}
+
+.ikon.fangerne-light {
+  background-image: url(/img/ikoner/fangerne-light_ikon.jpg);
+}
+
+.ikon.teambuilding {
+  background-image: url(/img/ikoner/teambuilding_ikon.jpg);
+}
+
+.ikon.udlejning {
+  background-image: url(/img/ikoner/Udlejning_ikon.jpg);
 }
 
 /*
@@ -460,34 +486,6 @@ figure {
   margin-bottom: 2vw;
 }
 
-.medarbejder {
-  height: 18vw;
-  width: 18vw;
-  background-image: url(/img/ikoner/Aretsmedarbejder_ikon.jpg);
-  background-size: contain;
-}
-
-.casino {
-  height: 18vw;
-  width: 18vw;
-  background-image: url(/img/ikoner/Casino_ikon.jpg);
-  background-size: contain;
-}
-
-.stratego {
-  height: 18vw;
-  width: 18vw;
-  background-image: url(/img/ikoner/Stratego_ikon.jpg);
-  background-size: contain;
-}
-
-.race {
-  height: 18vw;
-  width: 18vw;
-  background-image: url(/img/ikoner/Adventurerace_ikon.jpg);
-  background-size: contain;
-}
-
 #ikoner {
   margin-top: 3vw;
   display: flex;
@@ -502,6 +500,13 @@ figure {
 }
 
 .to {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5vw;
+  margin: 0% 7%;
+}
+
+.tre {
   display: flex;
   justify-content: space-between;
   margin: 0% 7%;
@@ -700,8 +705,8 @@ footer p {
   }
 }
 
-.tekst_forside @media only screen and (min-width:590px) {
-  hr {
+@media only screen and (min-width:590px) {
+  .tekst_forside hr {
     margin-right: 52vw;
   }
 
@@ -827,59 +832,9 @@ footer p {
     height: 30vw;
   }
 
-  .syv {
+  .ikon {  
     height: 15vw;
-    width: 15vw;
-    background-image: url(/img/ikoner/7aktiviteter_ikon.jpg);
-    background-size: contain;
-  }
-
-  .tvekamp {
-    height: 15vw;
-    width: 15vw;
-    background-image: url(/img/ikoner/tvekamp_ikon.jpg);
-    background-size: contain;
-  }
-
-  .tikamp {
-    height: 15vw;
-    width: 15vw;
-    background-image: url(/img/ikoner/10aktiviteter_ikon.jpg);
-    background-size: contain;
-  }
-
-  .fangerne {
-    height: 15vw;
-    width: 15vw;
-    background-image: url(/img/ikoner/_ikon.jpg);
-    background-size: contain;
-  }
-
-  .medarbejder {
-    height: 15vw;
-    width: 15vw;
-    background-image: url(/img/ikoner/Aretsmedarbejder_ikon.jpg);
-    background-size: contain;
-  }
-
-  .casino {
-    height: 15vw;
-    width: 15vw;
-    background-image: url(/img/ikoner/Casino_ikon.jpg);
-    background-size: contain;
-  }
-
-  .stratego {
-    height: 15vw;
-    width: 15vw;
-    background-image: url(/img/ikoner/Stratego_ikon.jpg);
-    background-size: contain;
-  }
-
-  .race {
-    height: 15vw;
-    width: 15vw;
-    background-image: url(/img/ikoner/Adventurerace_ikon.jpg);
+    width: 15vw;  
     background-size: contain;
   }
 
@@ -907,6 +862,12 @@ footer p {
   }
 
   .to {
+    margin: 0% 7%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .tre {
     margin: 0% 7%;
     padding-left: 0;
     padding-right: 0;
@@ -989,59 +950,9 @@ footer p {
     height: 40vw;
   }
 
-  .syv {
+  .ikon {
     height: 14vw;
     width: 14vw;
-    background-image: url(/img/ikoner/7aktiviteter_ikon.jpg);
-    background-size: contain;
-  }
-
-  .tvekamp {
-    height: 14vw;
-    width: 14vw;
-    background-image: url(/img/ikoner/tvekamp_ikon.jpg);
-    background-size: contain;
-  }
-
-  .tikamp {
-    height: 14vw;
-    width: 14vw;
-    background-image: url(/img/ikoner/10aktiviteter_ikon.jpg);
-    background-size: contain;
-  }
-
-  .fangerne {
-    height: 14vw;
-    width: 14vw;
-    background-image: url(/img/ikoner/_ikon.jpg);
-    background-size: contain;
-  }
-
-  .medarbejder {
-    height: 14vw;
-    width: 14vw;
-    background-image: url(/img/ikoner/Aretsmedarbejder_ikon.jpg);
-    background-size: contain;
-  }
-
-  .casino {
-    height: 14vw;
-    width: 14vw;
-    background-image: url(/img/ikoner/Casino_ikon.jpg);
-    background-size: contain;
-  }
-
-  .stratego {
-    height: 14vw;
-    width: 14vw;
-    background-image: url(/img/ikoner/Stratego_ikon.jpg);
-    background-size: contain;
-  }
-
-  .race {
-    height: 14vw;
-    width: 14vw;
-    background-image: url(/img/ikoner/Adventurerace_ikon.jpg);
     background-size: contain;
   }
 
@@ -1106,59 +1017,13 @@ footer p {
     padding-left: 0;
   }
 
-  .syv {
-    height: 13vw;
-    width: 13vw;
-    background-image: url(/img/ikoner/7aktiviteter_ikon.jpg);
-    background-size: contain;
+  .tre {
+    padding-left: 0;
   }
 
-  .tvekamp {
+  .ikon {
     height: 13vw;
     width: 13vw;
-    background-image: url(/img/ikoner/tvekamp_ikon.jpg);
-    background-size: contain;
-  }
-
-  .tikamp {
-    height: 13vw;
-    width: 13vw;
-    background-image: url(/img/ikoner/10aktiviteter_ikon.jpg);
-    background-size: contain;
-  }
-
-  .fangerne {
-    height: 13vw;
-    width: 13vw;
-    background-image: url(/img/ikoner/_ikon.jpg);
-    background-size: contain;
-  }
-
-  .medarbejder {
-    height: 13vw;
-    width: 13vw;
-    background-image: url(/img/ikoner/Aretsmedarbejder_ikon.jpg);
-    background-size: contain;
-  }
-
-  .casino {
-    height: 13vw;
-    width: 13vw;
-    background-image: url(/img/ikoner/Casino_ikon.jpg);
-    background-size: contain;
-  }
-
-  .stratego {
-    height: 13vw;
-    width: 13vw;
-    background-image: url(/img/ikoner/Stratego_ikon.jpg);
-    background-size: contain;
-  }
-
-  .race {
-    height: 13vw;
-    width: 13vw;
-    background-image: url(/img/ikoner/Adventurerace_ikon.jpg);
     background-size: contain;
   }
 
@@ -1344,59 +1209,9 @@ footer p {
     font-size: 1.2em;
   }
 
-  .syv {
+  .ikon {
     height: 10.5vw;
     width: 10.5vw;
-    background-image: url(/img/ikoner/7aktiviteter_ikon.jpg);
-    background-size: contain;
-  }
-
-  .tvekamp {
-    height: 10.5vw;
-    width: 10.5vw;
-    background-image: url(/img/ikoner/tvekamp_ikon.jpg);
-    background-size: contain;
-  }
-
-  .tikamp {
-    height: 10.5vw;
-    width: 10.5vw;
-    background-image: url(/img/ikoner/10aktiviteter_ikon.jpg);
-    background-size: contain;
-  }
-
-  .fangerne {
-    height: 10.5vw;
-    width: 10.5vw;
-    background-image: url(/img/ikoner/_ikon.jpg);
-    background-size: contain;
-  }
-
-  .medarbejder {
-    height: 10.5vw;
-    width: 10.5vw;
-    background-image: url(/img/ikoner/Aretsmedarbejder_ikon.jpg);
-    background-size: contain;
-  }
-
-  .casino {
-    height: 10.5vw;
-    width: 10.5vw;
-    background-image: url(/img/ikoner/Casino_ikon.jpg);
-    background-size: contain;
-  }
-
-  .stratego {
-    height: 10.5vw;
-    width: 10.5vw;
-    background-image: url(/img/ikoner/Stratego_ikon.jpg);
-    background-size: contain;
-  }
-
-  .race {
-    height: 10.5vw;
-    width: 10.5vw;
-    background-image: url(/img/ikoner/Adventurerace_ikon.jpg);
     background-size: contain;
   }
 
@@ -1518,59 +1333,9 @@ footer p {
     width: 10vw;
   }
 
-  .syv {
+  .ikon {
     height: 10vw;
     width: 10vw;
-    background-image: url(/img/ikoner/7aktiviteter_ikon.jpg);
-    background-size: contain;
-  }
-
-  .tvekamp {
-    height: 10vw;
-    width: 10vw;
-    background-image: url(/img/ikoner/tvekamp_ikon.jpg);
-    background-size: contain;
-  }
-
-  .tikamp {
-    height: 10vw;
-    width: 10vw;
-    background-image: url(/img/ikoner/10aktiviteter_ikon.jpg);
-    background-size: contain;
-  }
-
-  .fangerne {
-    height: 10vw;
-    width: 10vw;
-    background-image: url(/img/ikoner/_ikon.jpg);
-    background-size: contain;
-  }
-
-  .medarbejder {
-    height: 10vw;
-    width: 10vw;
-    background-image: url(/img/ikoner/Aretsmedarbejder_ikon.jpg);
-    background-size: contain;
-  }
-
-  .casino {
-    height: 10vw;
-    width: 10vw;
-    background-image: url(/img/ikoner/Casino_ikon.jpg);
-    background-size: contain;
-  }
-
-  .stratego {
-    height: 10vw;
-    width: 10vw;
-    background-image: url(/img/ikoner/Stratego_ikon.jpg);
-    background-size: contain;
-  }
-
-  .race {
-    height: 10vw;
-    width: 10vw;
-    background-image: url(/img/ikoner/Adventurerace_ikon.jpg);
     background-size: contain;
   }
 
