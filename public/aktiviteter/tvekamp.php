@@ -16,10 +16,15 @@
 
     <h1>Varighed</h1>
     <p>1 1/2 time uanset antal.</p>
+
     <h1>Sted</h1>
     <p>Tvekamp kan spilles alle steder, hvor der er lidt plads (som en stor græsplæne). Adventure Games kommer gerne ud til jer.</p>
+
     <h1>Pris</h1>
-    <p>Min. 10 personer.
-        500 kr. pr. deltager. Alle priser er eksklusiv moms</p>
+    <p>Min. 10 personer.</p>
+    <br>
+    <p>500,00 pr. deltager.</p>
+    <br>
+    <p>Alle priser er eksklusiv moms</p>
 
 </section>

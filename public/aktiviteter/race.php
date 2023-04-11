@@ -3,9 +3,9 @@
 <section id="tekst_race">
     <h1>Til lands, til vands og i luften</h1>
     <p>Hvert hold starter på basen med fælles aktivitet, så snart holdet har løst opgaven, bevæger holdet sig til
-        adventurebasen for at få første adventure kort.
-
-        På kortet er der 3 – 5 opgaver som de skal finde og løse og derefter returnere til adventurebasen og få godkendt
+        adventurebasen for at få første adventure kort.</p>
+    <br>
+    <p>På kortet er der 3 – 5 opgaver som de skal finde og løse og derefter returnere til adventurebasen og få godkendt
         resultatet. Bliver det godkendt, udleveres nyt kort med nye opgaver, hvis ikke, er der ekstraopgave på basen,
         som skal godkendes før nyt kort udleveres.</p>
 
@@ -27,5 +27,9 @@
     <h1>Sted</h1>
     <p>Mange muligheder, skov, strand, vi har også mulige steder med forplejning.</p>
     <h1>Pris</h1>
-    <p>Fra 500 kr. pr. person afhængig af varighed. Ring for at høre nærmere. Alle priser er ekskl. moms</p>
+    <p>Fra 500,00 pr. person afhængig af varighed. </p>
+    <br>
+    <p>Ring for at høre nærmere. </p>
+    <br>
+    <p>Alle priser er ekskl. moms</p>
 </section>

@@ -6,9 +6,13 @@
 
     <h1>Varighed</h1>
     <p>2 timer</p>
+
     <h1>Antal</h1>
     <p>Min. 15 personer.</p>
+
     <h1>Pris</h1>
     <p>400,00 pr deltager</p>
+    <br>
+    <p>Alle priser er eksklusiv moms</p>
 
 </section>

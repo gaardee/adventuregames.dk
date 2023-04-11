@@ -10,7 +10,7 @@
 
     <meta name="description" content="Adventure Games arrangerer events og teambuilding aktiviteter til firmaarrangementer, polterabender,  fødselsdage mm." />
 
-    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/style.css?v=1.1.0" />
     <link rel="stylesheet" href="/<?php echo $filename; ?>.css" />
 </head>
 
@@ -24,7 +24,7 @@
 
     <?php include('layout/footer.php'); ?>
 
-    <script src="script.js"></script>
+    <script src="/script.js"></script>
 </body>
 
 </html>

@@ -12,7 +12,6 @@ h1 {
     font-style: normal;
     font-weight: 350;
     font-size: 1.2em;
-    padding-left: 10vw;
     padding-top: 5vw;
     margin-bottom: 2vw;
 }
@@ -28,12 +27,11 @@ h2 {
     font-style: normal;
     font-weight: 350;
     font-size: 1em;
-    padding-left: 10vw;
     padding-top: 5vw;
     margin-bottom: 2vw;
 }
 
-#tekst_fangerne p {
+#tekst_fangerne  {
     padding-left: 10vw;
     padding-right: 8vw;
     max-width: 90vw;
