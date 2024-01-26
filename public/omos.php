@@ -36,6 +36,11 @@
       - Tilbyde aktiviteter som passer til kundens ønsker<br />
       - Tilbyde aktiviteter hvor instruktørerne har en personlig kontakt med deltagerne
     </p>
+    <h2>Handelsbetingelser:</h2>
+    <p>Ved aflysning 60 dage før event, betales gebyr på 500,00 DKK, resten refunderes.</p>
+    <p>Ved aflysning 30 dage før event, betales 25 % af det fulde beløb.</p>
+    <p>Ved aflysning mindre end 30 dage før event, betales 50 % af det fulde beløb.</p>
+    <p>Ved aflysning mindre end 7 dage før event, betales det fulde beløb.</p>
   </section>
 
   <section id="samarbejde">

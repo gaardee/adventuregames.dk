@@ -15,9 +15,11 @@
     <h1>Pris</h1>
     <p>Min. 21 personer.</p>
     <br>
-    <p>300,00 pr. person.</p>
+    <p>350,00 pr. person.</p>
     <br>
     <p>Hvis I er mere end 40 personer, kan der opnås rabat.</p>
+    <br>
+    <p>Alle priser er ekskl. moms</p>
     <h1>Kort fortalt</h1>
     <p>Spillet går ud på, at I bliver delt op i mindre hold, der dyster mod hinanden.</p>
     <br>

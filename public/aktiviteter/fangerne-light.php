@@ -10,6 +10,8 @@
     <h1>Antal</h1>
     <p>For min 8 og op til 12 deltagere</p>
     <h1>Pris</h1>
-    <p>350,00 pr deltager</p>
+    <p>400,00 pr deltager</p>
+    <br>
+    <p>Alle priser er ekskl. moms</p>
 
 </section>
